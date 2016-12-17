@@ -30,7 +30,7 @@
     "module_name": "node_printer",
     "module_path": "./build/{configuration}/electron-v1.4.12-{platform}-{arch}/",
     "package_name": "electron-v1.4.12-{platform}-{arch}.tar.gz",
-    "host": "https://github.com/bondigeek/electron-printer/releases/download/0.0.5"
+    "host": "https://github.com/marcopiraccini/electron-printer/releases/download/0.0.5"
   },
   "dependencies": {
     "nan": "^2.1.0",
